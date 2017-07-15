@@ -14,7 +14,7 @@ rem %SystemRoot%\explorer.exe "%docsdir%\My Games\Path of Exile\"
 cd /d "%docsdir%\My Games\Path of Exile\"
 echo Install Directory: %cd%
 echo =====================
-echo POE FILTER MENU
+echo POE FILTER MENU v2017/07/15 1PM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
