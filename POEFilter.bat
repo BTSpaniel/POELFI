@@ -3,7 +3,7 @@ TITLE LAZY POE Filter Downloader
 echo Made Easy by BTSpaniel
 
 echo Downloading Latest Build
-powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BTSpaniel/POELFI/master/POEFilter.bat -OutFile POEFilter.bat
+powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BTSpaniel/POELFI/master/POEFilter.bat -OutFile POEFILTER.bat
 
 CLS
 goto menu
