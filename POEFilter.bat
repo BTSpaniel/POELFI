@@ -129,4 +129,6 @@ echo Download Complete!
 start "" https://www.pathofexile.com/forum/view-thread/1259059
 start "" https://www.pathofexile.com/forum/view-thread/1246208
 start "" https://www.pathofexile.com/forum/view-thread/1566921
+timeout>nul 3
+CLS
 goto menu
