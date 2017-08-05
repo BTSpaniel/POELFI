@@ -52,7 +52,7 @@ cd /d "%docsdir%\My Games\Path of Exile\"
 IF %Dev%==1 Echo Dev Mode Enabled
 echo Install Directory: %cd%
 echo =====================
-echo POE FILTER MENU v2017/07/20 6AM
+echo POE FILTER MENU v2017/08/04 11PM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
