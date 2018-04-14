@@ -7,6 +7,8 @@ echo Loading Config
 set Dev=0
 
 set OFTRTA="https://www.thiessen.im/PoE/oftrta_v3.2.2.filter"
+set OFTRTAMAP="https://www.thiessen.im/PoE/oftrta_v3.2.2_map.filter"
+set OFTRTARICH="https://www.thiessen.im/PoE/oftrta_v3.2.2_rich.filter"
 rem Using Google links because Batches cannot contain Apostrophe or Percent signs without being part of the code.
 set Neversink-reg="https://goo.gl/Wy7tEJ"
 set Neversink-sstrict="https://goo.gl/hizUg7"
@@ -21,6 +23,8 @@ set GG-L="https://goo.gl/Vz3FLD"
 IF %Dev%==1 (
 Echo One Filter
 echo %OFTRTA% Loaded
+echo %OFTRTAMAP% Loaded
+echo %OFTRTARICH% Loaded
 Echo NeverSink
 echo %NeverSink-reg% Loaded
 echo %Neversink-sstrict% Loaded
@@ -83,6 +87,10 @@ echo Installing One Filter to Rule Them All
 echo Status: Updating Filter
 echo Downloading The ONLY Filter!
 powershell -Command Invoke-WebRequest "%OFTRTA%" -OutFile oftrta.filter
+echo Downloading The ONLY Filter MAP VERSION!
+powershell -Command Invoke-WebRequest "%OFTRTAMAP%" -OutFile oftrta-map.filter
+echo Downloading The ONLY Filter RICH VERSION!
+powershell -Command Invoke-WebRequest "%OFTRTA%RICH" -OutFile oftrta-rich.filter
 echo Download Complete!
 timeout>nul 3
 IF %Dev%==1 Pause
