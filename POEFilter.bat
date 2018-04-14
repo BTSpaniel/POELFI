@@ -8,7 +8,7 @@ set Dev=0
 
 set OFTRTA="https://www.thiessen.im/PoE/oftrta_v3.2.2.filter"
 rem Using Google links because Batches cannot contain Apostrophe or Percent signs without being part of the code.
-set Neversink-reg="https://goo.gl/UVdwAJ"
+set Neversink-reg="https://goo.gl/Wy7tEJ"
 set Neversink-sstrict="https://goo.gl/hizUg7"
 set Neversink-strict="https://goo.gl/d8xmZA"
 set Neversink-vstrict="https://goo.gl/r7Azwh"
@@ -52,7 +52,7 @@ cd /d "%docsdir%\My Games\Path of Exile\"
 IF %Dev%==1 Echo Dev Mode Enabled
 echo Install Directory: %cd%
 echo =====================
-echo POE FILTER MENU v2017/08/04 11PM
+echo POE FILTER MENU v2018/04/13 5PM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
