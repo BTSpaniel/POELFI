@@ -6,7 +6,7 @@ echo Loading Config
 
 set Dev=0
 
-set OFTRTA="http://www.thiessen.im/PoE/oftrta_v3.0.0.filter"
+set OFTRTA="https://www.thiessen.im/PoE/oftrta_v3.2.2.filter"
 rem Using Google links because Batches cannot contain Apostrophe or Percent signs without being part of the code.
 set Neversink-reg="https://goo.gl/UVdwAJ"
 set Neversink-sstrict="https://goo.gl/hizUg7"
