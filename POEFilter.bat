@@ -56,7 +56,7 @@ cd /d "%docsdir%\My Games\Path of Exile\"
 IF %Dev%==1 Echo Dev Mode Enabled
 echo Install Directory: %cd%
 echo =====================
-echo POE FILTER MENU v2018/08/31 12:25AM
+echo POE FILTER MENU v2018/08/31 12:29PM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
@@ -90,7 +90,7 @@ powershell -Command Invoke-WebRequest "%OFTRTA%" -OutFile oftrta.filter
 echo Downloading The ONLY Filter MAP VERSION!
 powershell -Command Invoke-WebRequest "%OFTRTAMAP%" -OutFile oftrta-map.filter
 echo Downloading The ONLY Filter RICH VERSION!
-powershell -Command Invoke-WebRequest "%OFTRTA%RICH" -OutFile oftrta-rich.filter
+powershell -Command Invoke-WebRequest "%OFTRTARICH%" -OutFile oftrta-rich.filter
 echo Download Complete!
 timeout>nul 3
 IF %Dev%==1 Pause
@@ -159,7 +159,7 @@ powershell -Command Invoke-WebRequest "%OFTRTA%" -OutFile oftrta.filter
 echo Downloading The ONLY Filter MAP VERSION!
 powershell -Command Invoke-WebRequest "%OFTRTAMAP%" -OutFile oftrta-map.filter
 echo Downloading The ONLY Filter RICH VERSION!
-powershell -Command Invoke-WebRequest "%OFTRTA%RICH" -OutFile oftrta-rich.filter
+powershell -Command Invoke-WebRequest "%OFTRTARICH%" -OutFile oftrta-rich.filter
 echo Download Complete!
 echo Installing NeverSink
 echo Status: Updating Filter
