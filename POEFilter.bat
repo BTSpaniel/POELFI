@@ -6,9 +6,9 @@ echo Loading Config
 
 set Dev=0
 
-set OFTRTA="https://www.thiessen.im/PoE/oftrta_v3.3.1.filter"
-set OFTRTAMAP="https://www.thiessen.im/PoE/oftrta_v3.3.1_map.filter"
-set OFTRTARICH="https://www.thiessen.im/PoE/oftrta_v3.3.1_rich.filter"
+set OFTRTA="http://www.thiessen.im/PoE/oftrta_v3.4.2.filter"
+set OFTRTAMAP="http://www.thiessen.im/PoE/oftrta_v3.4.2_map.filter"
+set OFTRTARICH="http://www.thiessen.im/PoE/oftrta_v3.4.2_rich.filter"
 rem Using Google links because Batches cannot contain Apostrophe or Percent signs without being part of the code.
 set Neversink-reg="https://goo.gl/Wy7tEJ"
 set Neversink-sstrict="https://goo.gl/hizUg7"
@@ -56,7 +56,7 @@ cd /d "%docsdir%\My Games\Path of Exile\"
 IF %Dev%==1 Echo Dev Mode Enabled
 echo Install Directory: %cd%
 echo =====================
-echo POE FILTER MENU v2018/06/06 11AM
+echo POE FILTER MENU v2018/08/31 11:45AM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
