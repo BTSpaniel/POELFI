@@ -1,4 +1,0 @@
-oftrta_v3.4.3.filter
-oftrta_v3.4.3.filter
-oftrta_v3.4.3_map.filter
-oftrta_v3.4.3_rich.filter
