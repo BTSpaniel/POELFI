@@ -1,0 +1,1 @@
+(Get-Content of.txt).replace('http://www.thiessen.im/PoE/', '') | Set-Content off.txt

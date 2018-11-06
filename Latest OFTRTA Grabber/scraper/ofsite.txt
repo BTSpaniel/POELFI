@@ -1,0 +1,1034 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="en_US" lang="en-US" xml:lang="en-US">
+<head>
+<title>Forum - Gameplay Help and Discussion - [Loot Filter] One Filter to Rule Them All v3.4.3 (Updated 2018-09-03) - Path of Exile</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" >
+<meta property="fb:admins" content="100001526026598" >
+<meta property="og:image" content="https://web.poecdn.com/image/favicon/ogimage.png?oriath" >
+<meta property="og:title" content="Forum - Gameplay Help and Discussion - [Loot Filter] One Filter to Rule Them All v3.4.3 (Updated 2018-09-03) - Path of Exile" >
+<meta property="og:site_name" content="Path of Exile" >
+<meta property="og:type" content="website" >
+<meta property="og:keywords" content="path of exile,action rpg,online rpg game,free rpg game" >
+<meta property="og:description" content="Path of Exile is a free online-only action RPG under development by Grinding Gear Games in New Zealand." >
+<meta name="keywords" content="path of exile,action rpg,online rpg game,free rpg game" >
+<meta name="description" content="Path of Exile is a free online-only action RPG under development by Grinding Gear Games in New Zealand." >
+<meta name="msapplication-config" content="https://web.poecdn.com/image/favicon/browserconfig.xml?oriath" >
+<meta name="theme-color" content="#ffffff" >
+<meta property="og:locale" content="en_US" ><link href="https://web.poecdn.com/image/favicon/apple-touch-icon.png?oriath" rel="apple-touch-icon" sizes="180x180" >
+<link href="https://web.poecdn.com/image/favicon/favicon-32x32.png?oriath" rel="icon" type="image/png" sizes="32x32" >
+<link href="https://web.poecdn.com/image/favicon/favicon-16x16.png?oriath" rel="icon" type="image/png" sizes="16x16" >
+<link href="https://web.poecdn.com/image/favicon/manifest.json?oriath" rel="manifest" >
+<link href="https://web.poecdn.com/image/favicon/safari-pinned-tab.svg?oriath" rel="mask-icon" >
+<link href="https://web.poecdn.com/image/favicon/favicon.ico?oriath" rel="shortcut icon" >
+<link href="https://web.poecdn.com/css/https/screen.css?v=e644e5f37413abdeb1ffbf2a62d1e6a1" media="screen" rel="stylesheet" type="text/css" >
+            <script type="text/javascript">
+            
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                
+                ga('create', 'UA-17600449-1', 'auto');
+                ga('set', 'anonymizeIp', false);
+                ga('send', 'pageview');
+               
+            </script></head>
+
+<body class="en_US noJS ">
+            <div class="container">
+        <div class="header en">
+            <div class="controls">
+                <div id="statusBar"><div class="statusBarCenter"></div><div class="statusBarRight"></div><div class="row2 loggedOut"><a class="statusItem" href="/login">LOG IN</a><a class="statusItem" href="/account/create">CREATE ACCOUNT</a><a class="statusItem" href="/support">CONTACT SUPPORT</a></div></div>                <div class="language-select">
+                    <a href="//pathofexile.com/forum"><span class="en-lang"><img src="https://web.poecdn.com/image/lang/GB.png"/></span></a>
+                    <a href="//br.pathofexile.com/forum"><span class="br-lang"><img src="https://web.poecdn.com/image/lang/BR.png"/></span></a>
+                    <a href="//ru.pathofexile.com/forum"><span class="ru-lang"><img src="https://web.poecdn.com/image/lang/RU.png"/></span></a>
+                    <a href="//th.pathofexile.com/forum"><span class="th-lang"><img src="https://web.poecdn.com/image/lang/TH.png"/></span></a>
+                    <a href="//de.pathofexile.com/forum"><span class="de-lang"><img src="https://web.poecdn.com/image/lang/DE.png"/></span></a>
+                    <a href="//fr.pathofexile.com/forum"><span class="fr-lang"><img src="https://web.poecdn.com/image/lang/FR.png"/></span></a>
+                    <a href="//es.pathofexile.com/forum"><span class="es-lang"><img src="https://web.poecdn.com/image/lang/ES.png"/></span></a>
+                </div>                                <a id="mainLogoLink" href="/">
+                    <span>Path of Exile</span>
+                </a>
+                                    <div id="largeHeaderButton">
+                                                <a id="signupButton" href="https://pathofexile.com/account/create"><span>Sign Up</span></a>
+                                            </div>
+                            </div>
+            <ul class="navigation en_US">
+                <li id="nav-home">      <a href="https://pathofexile.com/"><span>Home</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/news">News</a></li><li><a href="https://pathofexile.com/account/create">Create Account</a></li><li><a href="https://pathofexile.com/login">Log In</a></li><li><a href="https://pathofexile.com/forum/view-forum/patch-notes">Patch Notes</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-game">      <a href="https://pathofexile.com/game"><span>Game</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/video">Videos</a></li><li><a href="https://pathofexile.com/gallery">Gallery</a></li><li class="separator"></li><li><a href="https://pathofexile.com/game">Overview</a></li><li><a href="https://pathofexile.com/passive-skill-tree">Passive Tree</a></li><li><a href="https://pathofexile.com/ascendancy/classes">Ascendancy Classes</a></li><li><a href="https://pathofexile.com/item-data">Items</a></li><li class="separator"></li><li><a href="http://pathofexile.gamepedia.com/">Community Wiki</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-forum">     <a href="https://pathofexile.com/forum"><span>Forum</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/forum">Index</a></li><li><a href="https://pathofexile.com/forum/view-thread/1457463">Code of Conduct</a></li><li><a href="https://pathofexile.com/search">Search</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-events">    <a href="https://pathofexile.com/events"><span>Events</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/events">Event Calendar</a></li><li><a href="https://pathofexile.com/seasons">Race Season</a></li><li><a href="https://pathofexile.com/signature-races/ladder">Signature Races</a></li><li class="separator"></li><li><a href="https://pathofexile.com/forum/view-thread/2202342">Delve</a></li><li><a href="https://pathofexile.com/forum/view-thread/2202343">Hardcore Delve</a></li><li><a href="https://pathofexile.com/forum/view-thread/71278">Standard</a></li><li><a href="https://pathofexile.com/forum/view-thread/71276">Hardcore</a></li><li><a href="https://pathofexile.com/forum/view-thread/2202345">SSF Delve</a></li><li><a href="https://pathofexile.com/forum/view-thread/2202346">SSF Hardcore Delve</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841357">SSF Standard</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841353">SSF Hardcore</a></li><li class="separator"></li><li><a href="https://pathofexile.com/ladder/labyrinth">Labyrinth Ladders</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-trade">     <a href="https://pathofexile.com/trade"><span>Trade</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/trade/search">Search Items</a></li><li><a href="https://pathofexile.com/trade/exchange">Bulk Item Exchange</a></li><li><a href="https://pathofexile.com/trade/about">About</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-shop">      <a href="https://pathofexile.com/shop"><span>Shop</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/purchase">Buy Packs</a></li><li class="separator"></li><li><a href="https://pathofexile.com/shop">Microtransactions</a></li><li><a href="https://pathofexile.com/shop/category/daily-deals">Specials</a></li></ul><div class="bot"></div></div></li>
+                            </ul>
+        </div>
+        <div class="content">
+            <div class="backdrop"></div>
+            <div class="wrapper">
+                                                                <div class="layoutBox1 layoutBoxFull forumTheme">
+    <div class="topBar first"><div class="breadcrumb"><a href="/forum">Forum Index</a><span class="separator">»</span><a href="/forum/view-forum/gameplay-discussion">Gameplay Help and Discussion</a><span class="separator">»</span><a href="/forum/view-thread/1259059">View Thread</a></div></div><div class="topBar forumControls"><div class="pagination"><a class="current" href="/forum/view-thread/1259059/page/1">1</a><a href="/forum/view-thread/1259059/page/2">2</a><a href="/forum/view-thread/1259059/page/3">3</a><a href="/forum/view-thread/1259059/page/4">4</a><span class="separator">&hellip;</span><a href="/forum/view-thread/1259059/page/110">110</a><a href="/forum/view-thread/1259059/page/111">111</a><a href="/forum/view-thread/1259059/page/2">Next</a></div><div class="mainButtons"><a class="button1" href="/forum/view-thread/1259059/filter-account-type/staff" rel="nofollow">View Staff Posts</a><a rel="nofollow" class="button1 important" href="/forum/post-reply/1259059" rel="nofollow">Post Reply</a></div><div class="forumSearchForm">
+    <form method="POST" class="t1" action="&#x2F;search">    <input type="text" name="query" placeholder="Search..." class="textInput" value="">    <button type="button" name="search" id="search-button" value=""></button>    <fieldset style="display:none">
+        <label><input type="checkbox" name="search_within&#x5B;&#x5D;" value="post" checked="checked"></label><label><input type="checkbox" name="search_within&#x5B;&#x5D;" value="thread" checked="checked"></label>                <select name="forums&#x5B;&#x5D;" multiple="multiple"><option value="107" selected="selected"></option></select>            </fieldset>
+    </form></div></div><h1 class="topBar last layoutBoxTitle">[Loot Filter] One Filter to Rule Them All v3.4.3 (Updated 2018-09-03)</h1>
+    <div class="layoutBoxContent"><div class="forum-table-container">
+			<table class="forumTable forumPostListTable">
+			    <tr>            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content"><strong>Link</strong>: <a href="http://www.thiessen.im/PoE/oftrta_v3.4.3.filter">One Filter to Rule Them All (v3.4.3)</a><br>
+<br>
+<strong>How to install?</strong><br>
+Right click the link above -&gt; &quot;Save Link to&quot; -&gt; C:/User/Your_Username/Documents/My Games/Path of Exile/<br>
+It will now appear ingame in the options panel (press &quot;O&quot;) at the end of the &quot;UI&quot; tab.<br>
+<br>
+There&#039;s also a well made <a href="https://www.youtube.com/watch?v=KY1x92eibB0">video</a> by <a href="https://www.pathofexile.com/account/view-profile/EngineeringEternity">EngineeringEternity</a> that shows how to install a filter.<br>
+<br>
+<strong>Usage notes</strong><br>
+<ul>
+<li>Open the options panel -&gt; &quot;UI&quot; and enable &quot;Always Highlight&quot;.</li>
+<li>Bookmark this thread so you can easily check for updates every now and then. The link to this thread is also located at the top of the item filter file.</li>
+</ul><br>
+<strong>Questions</strong><br>
+If the FAQ section below or the customization at the top of the filter file doesn&#039;t answer your question(s), please don&#039;t hesitate to post in this thread. Please understand that I won&#039;t respond to direct PMs.<br>
+<br>
+<strong>Default Filter</strong><br>
+The &lt;default&gt; in-game filter that comes bundled with &quot;Path of Exile&quot; is based on &quot;One Filter to Rule Them All&quot;. I encourage you to check it out!<br>
+<br>
+<strong style="color:#AF6025">Copyright / License</strong><br>
+This work is licensed under the Creative Commons Attribution 3.0 Unported (CC BY 3.0) License.<br>
+To view a copy of this license, visit <a href="https://creativecommons.org/licenses/by/3.0/">https://creativecommons.org/licenses/by/3.0/</a>.<br>
+<br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Changelog</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+<strong>3.4.3</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.4.2_to_v3.4.3.diff">Diff</a>)<br>
+<ul>
+<li>Added Drop Effects to high value and delve specific items.</li>
+<li>Added support for Delve explicit mods.</li>
+</ul><br>
+<br>
+<strong>3.4.2</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.3.1_to_v3.4.2.diff">Diff</a>)<br>
+<ul>
+<li>Added Minimap Icons to valueable items.</li>
+<li>Added Delve specific currency. (Color will likely be changed.)</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li></li>
+<li>Readded Leather Belt to the chance section.</li>
+</ul><br>
+<br>
+<strong>3.3.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.3.0_to_v3.3.1.diff">Diff</a>)<br>
+<ul>
+<li>Removed the itemlevel requirement for explicit Incursion mods.</li>
+<li>Removed Leather Belt from the chance section.</li>
+</ul><br>
+<br>
+<strong>3.3.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.2.2_to_v3.3.0.diff">Diff</a>)<br>
+<ul>
+<li>Added support for the new Incursion League items.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li>Added support for explicit Incursion mods.</li>
+<li>Added support for explicit Warband mods.</li>
+</ul><br>
+<br>
+<strong>3.2.2</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.2.1_to_v3.2.2.diff">Diff</a>)<br>
+<ul>
+<li>Adjusted the alertsound for bestiary nets (again).</li>
+<li>Added a block for Necromancy Nets.</li>
+</ul><br>
+<br>
+<strong>3.2.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.2.0_to_v3.2.1.diff">Diff</a>)<br>
+<ul>
+<li>Added support for the new &quot;ElderMap True&quot; syntax.</li>
+<li>Adjusted the alertsound for bestiary nets.</li>
+</ul><br>
+<br>
+<strong>3.2.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.1.1_to_v3.2.0.diff">Diff</a>)<br>
+<ul>
+<li>Added highlighting for new Bestiary items.</li>
+<li>Updated the chance section.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>3.1.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.1.0_to_v3.1.1.diff">Diff</a>)<br>
+<ul>
+<li>Added a block for &quot;Orb of Augmentation&quot; in the currency section.</li>
+<li>Updated the chance section.</li>
+<li>Fixed &quot;Shaped Maps&quot; not being cought by DropLevel conditions anymore.</li>
+<li>Removed the dropsound for Stygian Vise belts.</li>
+<li>Minor toggle improvements.</li>
+</ul><br>
+<br>
+<strong>3.1.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v3.0.0_to_v3.1.0.diff">Diff</a>)<br>
+<ul>
+<li>Reverted back to &quot;old dropsounds&quot; pre 3.0.0 as there is no indication in the 3.1.0 patch notes that this will be fixed by GGG.</li>
+<li>Added highlighting for new Abyss Jewels.</li>
+<li>Added highlighting for new Shaper and Elder items.</li>
+</ul><br>
+<br>
+<strong>3.0.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.6.1_to_v3.0.0.diff">Diff</a>)<br>
+<ul>
+<li>I never got around to list the changes for this update. (Mostly sound related)</li>
+</ul><br>
+<br>
+<strong>2.6.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.5.1_to_v2.6.0.diff">Diff</a>)<br>
+<ul>
+<li>Added new items that were introduced with the &quot;Legacy&quot; league.</li>
+<li>Reduced the dropsound volume for medium and high tier maps slightly.</li>
+<li>Removed &quot;Prophecy Wand&quot;, &quot;Deicide Mask&quot; and &quot;Sapphire Flask&quot; from the chance section. Added &quot;Leather Belt&quot; to the chance section.</li>
+<li>Warband items are now hidden by default again due to the identified sextant mod. Press &quot;Alt&quot; after killing a warband member and check for items with a blue border.</li>
+<li>[Meta] Added a &quot;map version&quot; of the filter. It shows a lot less normal and magic items. An extremely endgame oriented version will follow during the league.</li>
+</ul><br>
+<br>
+<strong>2.5.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.5.0_to_v2.5.1.diff">Diff</a>)<br>
+<ul>
+<li>Breach Splinter are now displayed with a border.</li>
+<li>Breach Blessings are now displayed like Exalted/Divine Orbs.</li>
+<li>Exalted &amp; Eternal Orbs are now displayed in a slightly larger fontsize than Divine Orbs.</li>
+<li>High Tier map highlighting via textcolor now begins at T14 (lvl 81). Lower red maps are still larger than yellow maps.</li>
+<li>Updated the &quot;Animate Weapon&quot; section. It now includes a block for identified magic weapons.</li>
+</ul><br>
+<br>
+<strong>2.5.0</strong><br>
+<ul>
+<li>Fixed a bug that would cause drop only gems with a certain amount of quality to be shown without a border and dropsound. (thanks <a href="https://www.pathofexile.com/account/view-profile/charon_hh">charon_hh</a>)</li>
+<li>Added dedicated Regal Orb recipe blocks with theme support.  (thanks <a href="https://www.pathofexile.com/account/view-profile/__SirPuFFaLoT__">__SirPuFFaLoT__</a>)</li>
+<li>Improved the endgame section. It will now show less items highlighted in a prominent way and significantly less normal and magic weapons unless they are deemed pickup worthy. Also, toggles should be easier to use with Filtration now.</li>
+<li>Warband items are now shown by default. Should you use Cloak of Tawm&#039;r Isley (Found Magic Items drop Identified), it&#039;s recommended to toggle the warbands blocks to hide again.</li>
+<li>Exalted, Eternal and Divine Orbs will now visually stand out more. Their dropsound volume has been reduced slightly.</li>
+<li>Added new items that were introduced with the &quot;Breach&quot; league.</li>
+<li>Maps have had their dropsound slightly reduced and retain their original border. Red maps are highlighted by a slightly brighter textcolor. (I&#039;m not quite happy with the map section yet.)</li>
+</ul><br>
+<br>
+<strong>2.4.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.4.0_to_v2.4.1.diff">Diff</a>)<br>
+<ul>
+<li>Improved the progression/leveling section. Starting a new character in a new league should feel smoother now.</li>
+<li>Linked armour items are now highlighted in a slightly brighter fontsize. (thanks <a href="https://www.pathofexile.com/account/view-profile/heisl">heisl</a>)</li>
+<li>Added the customization section to this post.</li>
+<li>Removed Zealot Helmet (<a href="http://pathofexile.gamepedia.com/Kitava%27s_Thirst">Kitava&#039;s Thirst</a>) from the chance section.</li>
+
+<li>Added Jewelled Foil (<a href="http://pathofexile.gamepedia.com/Cospri&#039;s_Malice">Cospri&#039;s Malice</a>) to the unique section. (thanks <a href="https://www.pathofexile.com/account/view-profile/kHronos07">kHronos07</a>, <a href="https://www.pathofexile.com/account/view-profile/Czerpakistan">Czerpakistan</a>)</li>
+<li>Adjusted map tiers, yellow maps now start at lvl 73, red maps at 78.</li>
+<li>Added dedicated Atlas of Worlds sections that show them regardless of rarity or number of sockets present.</li>
+<li>Enabled Warbands by default. Press Alt after killing warband monsters and check for items with a blue border.</li>
+</ul><br>
+<br>
+<strong>2.4.0</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.7_to_v2.4.0.diff">Diff</a>)<br>
+<ul>
+<li>Added new basetypes that were introduced with Atlas of Worlds.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li>Added blocks to highlight challenge related Divination Cards. (thanks <a href="https://www.pathofexile.com/account/view-profile/charon_hh">charon_hh</a>)</li>
+<li>Reworked the maps section. This should make it easier to customize it. Rare Map Fragments will now be highlighted.</li>
+<li>Added Zealot Helmet (<a href="http://pathofexile.gamepedia.com/Kitava%27s_Thirst">Kitava&#039;s Thirst</a>), Deicide Mask (<a href="http://pathofexile.gamepedia.com/Heretic%27s_Veil">Heretic&#039;s Veil</a>) and Sapphire Flask (<a href="http://pathofexile.gamepedia.com/Taste_of_Hate">Taste of Hate</a>) to the chance section. (thanks <a href="https://www.pathofexile.com/account/view-profile/kHronos07">kHronos07</a>)</li>
+<li>&quot;Village Ruin Map&quot; is now &quot;Castle Ruin Map&quot;. <em>This is a buff.</em></li>
+</ul><br>
+<br>
+<strong>2.3.7</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.6_to_v2.3.7.diff">Diff</a>)<br>
+<ul>
+<li>Added &quot;Stacked Deck&quot; currency type.</li>
+<li>Added an alertsound for &quot;Empower&quot;, &quot;Enhance&quot; and &quot;Enlighten&quot;.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>2.3.6</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.5_to_v2.3.6.diff">Diff</a>)<br>
+<ul>
+<li>Fixed a bug that hid the &quot;Offering to the Goddess&quot;. (thanks <a href="https://www.pathofexile.com/account/view-profile/D1Gz">D1Gz</a>, <a href="https://www.pathofexile.com/account/view-profile/ata">ata</a>, <a href="https://www.pathofexile.com/account/view-profile/EntropyMu">EntropyMu</a> and <a href="https://www.pathofexile.com/account/view-profile/Truth">Truth</a>)</li>
+<li>Display &quot;Eber&#039;s Key&quot;, &quot;Yriel&#039;s Key&quot;, &quot;Inya&#039;s Key&quot; and &quot;Volkuur&#039;s Key&quot; as quest items to bring them in line with how the other labyrinth key/trinket related items are shown.</li>
+</ul><br>
+<br>
+<strong>2.3.5</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.4_to_v2.3.5.diff">Diff</a>)<br>
+<ul>
+<li>Added &quot;Silver Coin&quot; and &quot;Prophecy&quot; currency types. They have a prophecy styled (purple) border and the common currency alertsound.</li>
+<li>Updated the list of valuable divination cards.</li>
+</ul><br>
+<br>
+<strong>2.3.4</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.3_to_v2.3.4.diff">Diff</a>)<br>
+<ul>
+<li>Added low volume dropsounds for medium currency and 6 socketed items. The feedback has been positive for the most part. The single negative feedback (too many currency sounds in full party speed rotations) has been withdrawn after getting used to it.</li>
+<li>Labyrinth keys and utility items will now appear as quest items.</li>
+<li>Added Spike-Point Arrow Quiver to the category of items that receive borders based on zone and itemlevel.</li>
+<li>Updated the customization section to reflect changes to other sections.</li>
+<li>DropOnly gems now have the same border as gems with 10% or more quality. If this turns out to be irritating, I&#039;ll look for another solution.</li>
+<li>Updated the list of valuable uniques and divination cards. The next version (scheduled for next league) will likely include highlights for challenge related divination cards.</li>
+<li>Updated the Animate Weapon section. Best build I&#039;ve ever played ;)</li>
+</ul><br>
+<br>
+<strong>2.3.3</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.2_to_v2.3.3.diff">Diff</a>)<br>
+<ul>
+<li>Updated the flask section to refer to utility flasks by class rather than basetype to show new Ascendancy flasks.</li>
+<li>Split the &quot;Portal &amp; Wisdom Scroll&quot; block in two distinct blocks. This should make it easier to hide/show only one of them if desired. (thanks <a href="https://www.pathofexile.com/account/view-profile/FnTsTiC">FnTsTiC</a>)</li>
+<li>Added &quot;Perandus Coin&quot; to the currency section.</li>
+</ul><br>
+<br>
+<strong>2.3.2</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3.1_to_v2.3.2.diff">Diff</a>)<br>
+<ul>
+<li>Removed quotation marks around numerical values.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>2.3.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.3_to_v2.3.1.diff">Diff</a>)<br>
+<ul>
+<li>Added &quot;Sorcerer Boots&quot; (<a href="http://pathofexile.gamepedia.com/Skyforth">Skyforth</a>) to the chance section.</li>
+<li>Fixed a bug that caused &quot;Maelstr&ouml;m Staff&quot; to be displayed where it should not.</li>
+<li>Added further comments to improve theme support.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>2.3</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.2_to_v2.3.diff">Diff</a>)<br>
+<ul>
+<li>Added support for the new Talisman league.</li>
+<li>Added a bordercolor for Orb of Fusing, Blessed Orb, Orb of Scouring, Orb of Alchemy, Vaal Orb and Cartographer&#039;s Chisel.</li>
+<li>Added further comments to improve theme support.</li>
+<li>Removed the explicitly mentioned BaseTypes where they weren&#039;t needed.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>2.2</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.1_to_v2.2.diff">Diff</a>)<br>
+<ul>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li>Adjusted the requirements for items that have five linked sockets (5Ls) to be highlighted. Body Armours are always highlighted. Bows and Staves need an itemlevel of 64 and 55 or higher respectively. Anything not matching the requirements is still highlighted, but without an increased font size and alert sound.</li>
+<li>Slightly reduced the border opacity for Chromatic Orb recipe items.</li>
+<li>Implemented further unique hihglighting based on <a href="https://www.pathofexile.com/account/view-profile/kyborek">kyborek&#039;s</a> <a href="https://www.pathofexile.com/forum/view-thread/1453926">list of valuable uniques and divination cards</a>.</li>
+<li>Added a very slight highlighting to certain map bases by increasing background opacity. The list is based on <a href="http://pathofexile.gamepedia.com/Map">map layout and boss dificulty</a>.</li>
+</ul><br>
+<br>
+<strong>2.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.0.4_to_v2.1.diff">Diff</a>)<br>
+<ul>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li>Reworked the &quot;very valuable&quot; unique section based on the <a href="https://www.pathofexile.com/forum/view-thread/1453926">list of valuable uniques and divination cards</a> made by <a href="https://www.pathofexile.com/account/view-profile/kyborek">kyborek</a>. I expect further changes in future versions as his project grows.</li>
+<li>Removed the generic &quot;Hide&quot; statement at the end of the filter as it isn&#039;t needed anymore. This ensures that new items will always be shown.</li>
+<li>Added toggles for &quot;Link Exceptions&quot; and &quot;Obsolete Gear&quot;. These are considered advanced (indicated by the ~ sign in the title) and you will need to enable &quot;Advanced Mode&quot; in Filtration should you wish to use them.</li>
+</ul><br>
+<br>
+<strong>2.0.4</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.0.3_to_v2.0.4.diff">Diff</a>)<br>
+<ul>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+<li>Aligned the color for Divination Cards with the game&#039;s default.</li>
+</ul><br>
+<br>
+<strong>2.0.3</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.0.2_to_v2.0.3.diff">Diff</a>)<br>
+<ul>
+<li>Added a separate block (and toggle) for Iron Rings. This should make it easier to show them for recipe purposes. (thanks <a href="https://www.reddit.com/user/Shiva-">Shiva-</a>)</li>
+<li>Reduced the AlertSound volume for 5Ls from 250 to 175. (<a href="https://www.pathofexile.com/account/view-profile/charon_hh">charon_hh</a> asked me to say thanks to &quot;the biggest hero of wraeclast&quot;)</li>
+<li>Added further theme support entries (SetBackgroundColor) to the currency section.</li>
+<li>Added new Divination Cards to their approriate blocks. This is optional, new Divination Cards will always be shown.</li>
+</ul><br>
+<br>
+<strong>2.0.2</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.0.1_to_v2.0.2.diff">Diff</a>)<br>
+<ul>
+<li>Updated to reflect the changes of &quot;Spiked Shields, the Alloyed, Burnished and Alder Spike Shields are now Spiked Shields&quot;. Unfortunately this change wasn&#039;t part of the patch notes that were available prior to the change.</li>
+</ul><br>
+<br>
+<strong>2.0.1</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v2.0_to_v2.0.1.diff">Diff</a>)<br>
+<ul>
+<li>Removed the duplicate entry for &quot;Blessed Orb&quot; from the currency section. (thanks <a href="https://www.pathofexile.com/account/view-profile/StrikeQ">StrikeQ</a>)</li>
+<li>The toggle &quot;#Rares - Staves, Wands &amp; Quivers&quot; is now considered advanced and not displayed by default.</li>
+<li>Removed &quot;Fleshripper&quot; from the list of crafting bases as it&#039;s automatically included being the Tier 1 two hand axe. (thanks <a href="https://www.pathofexile.com/account/view-profile/therestless">therestless</a>)</li>
+<li>Moved &quot;Map Fragments&quot; into their own block inside the map section.</li>
+<li>Renamed &quot;Fossilized Spirit Shield&quot; to &quot;Fossilised Spirit Shield&quot; in preparation for <a href="https://www.pathofexile.com/forum/view-thread/1399207">Path of Exile Patch 2.0.2</a>.</li>
+<li>Improved toggles for normal and magic jewelry.</li>
+</ul><br>
+<br>
+<strong>2.0</strong><br>
+<ul>
+<li>Reduced the line count by approximately 30%.</li>
+<li>Obsolete items are now hidden earlier. The majority of items now only traverse ~10% of the filter resulting in greatly improved processing speed.</li>
+<li>Extended the &quot;High Itemlevel Rare&quot; section with 83+ weapons and 84+ Armour &amp; Jewelry. Theme support now allows to distinguish between T1 and Craft basetypes.</li>
+<li>Added another option/toggle to control whether an item is to be shown or hidden. It is now possible to have no socket requirement, require 3/4 sockets (1hand weapons and shields and 2hand weapons and armour respectively) or require the sockets to be linked. The new defaults can be found in the initial post.</li>
+<li>Added an option to distinguish between Normal and Magic endgame items through toggles.</li>
+<li>Added highlighting for normal and magic 83+ weapons and 84+ armour/jewelry.</li>
+<li>Added AlertSounds for valuable Divination Cards.</li>
+<li>The list of craft bases has been updated to include more commonly used basetypes. (thanks <a href="https://www.pathofexile.com/account/view-profile/Alexlulz">Alexlulz</a>)</li>
+<li>Added another block to the Chromatic Orb Recipe section for 1x4 items. (thanks <a href="https://www.pathofexile.com/account/view-profile/nugiyen">nugiyen</a>)</li>
+<li>Custimization toggles in the rare Chromatic Orb Recipe section are now considered &quot;advanced&quot;. You will need to switch to &quot;Advanced Mode&quot; in Filtration in order to use them as changes to it may hide rares.</li>
+<li>Removed the Animate Weapon Show/Hide toggle as you only ever want to enable or disable the block.</li>
+<li>Added Desert Brigandine (Lightning Coil) to the chance and valuable unique section.</li>
+<li>Lowlevel maps will now appear in the default fontsize. The medium map tier (74 - 78) now has a slightly bigger fontsize. (thanks <a href="https://www.pathofexile.com/account/view-profile/matkod">matkod</a>)</li>
+<li>Increased the font size from 42 to the maximum of 45 for very valuable items.</li>
+<li>Added further custimization options to the Currency section. (thanks <a href="https://www.pathofexile.com/account/view-profile/Vods">Vods</a>, <a href="https://www.pathofexile.com/account/view-profile/Dr0etker">Dr0etker</a>, <a href="https://www.pathofexile.com/account/view-profile/uit">uit</a>, <a href="https://www.pathofexile.com/account/view-profile/NanoDestiny">NanoDestiny</a>)</li>
+<li>Added more Divination Cards to their appropriate blocks.</li>
+<li>Reworked the chance section. By default less items receive the unique chance border. Preveiously shown and newly added basetypes are still in the filter and can be enabled using Filtration. (thanks <a href="https://www.pathofexile.com/account/view-profile/Vods">Vods</a>)</li>
+<li>Normal Jewelery is now highlighted at itemlevel 75+ (down from 77+).</li>
+<li>Magic Jewelery at itemlevel 75+ is now set to &quot;Hide&quot; by default. It can be set to &quot;Show&quot; using the appropriate toggle.</li>
+<li>Added a separate block for normal and magic Jewelery with an itemlevel below 68. (thanks <a href="https://www.pathofexile.com/account/view-profile/thevdende">thevdende</a>)</li>
+<li>Several sections have been reordered. Chance, Chisel and Chromatic Orb Recipe sections are now located before the Progression section to always highlight these items.</li>
+<li>Fixed a bug that always hid medium Life and Mana flasks.</li>
+<li>Fixed a bug that only showed Q10+ Flasks for certain basetypes.</li>
+<li>Extended Warbands support by adding a new block for magic weapons. The Warbands section is now disabled by default and needs to be enabled using Filtration. Use &quot;Alt&quot; (Item highlight keybinding) to highlight potential basetypes after killing a Warband.</li>
+<li>Fixed a bug that added the wrong theme support tag to certain items.</li>
+<li>Added further theme support tags throughout the filter.</li>
+<li>Reworked AlertSounds in regards to which sound to play and in what volume.</li>
+</ul><br>
+<br>
+<strong>1.0.5</strong> (<a href="http://www.thiessen.im/PoE/oftrta_v1.0.4_to_v1.0.5.diff">Diff</a>)<br>
+<ul>
+<li>Show 3/4L normal and magic Armour a little longer while leveling.</li>
+<li>Added a separate currency block for &quot;Blessed Orb&quot;, &quot;Orb of Fusing&quot; and &quot;Orb of Regret&quot; to make it easier to apply individual highlighting. (thanks <a href="https://www.reddit.com/user/Umbralforce">Umbralforce</a>, <a href="https://www.reddit.com/user/nrgdallas">nrgdallas</a>, <a href="https://www.reddit.com/user/Lethalres">Lethalres</a> &amp; <a href="https://www.reddit.com/user/moldyredditor">moldyredditor</a>)</li>
+<li>Separated &quot;Best BaseType for Zone&quot; theme comments into &quot;Armour&quot; and &quot;Weapons&quot; to allow even more fine grained theme creating.</li>
+<li>Uniques are now only highlighted if they are very very valuable (~10ex+). The rest is displayed like regular uniques. (thanks <a href="https://www.reddit.com/user/flzkpp">flzkpp</a> &amp; <a href="https://www.pathofexile.com/account/view-profile/Dassa73">Dassa73</a>)</li>
+<li>Added a Warbands section. Press &quot;Alt&quot; (Highlight items and objects key) to show hidden items. Those that have the potential for a Warbands mod (Helmets, Gloves and Boots) will have a blue border.</li>
+<li>Reworked the Gems section. Quality, Vaal and drop only gems appear in the default fontsize and any gems not matching those categories appear slightly smaller. (thanks <a href="https://www.pathofexile.com/account/view-profile/matkod">matkod</a>)</li>
+<li>Reworked how rares are displayed/highlighted. See <a href="https://www.pathofexile.com/forum/view-thread/1259059/page/20#p10977757">this post</a> for more details and screenshots.</li>
+<li>Divination Cards are now displayed using their native textcolor. (thanks <a href="https://www.pathofexile.com/account/view-profile/matkod">matkod</a>)</li>
+</ul><br>
+<br>
+<strong>1.0.4</strong><br>
+<ul>
+<li>Fixed an issue that made very valuable uniques appear using the currency textcolor. (thanks <a href="https://www.pathofexile.com/account/view-profile/Dassa73">Dassa73</a>)</li>
+</ul><br>
+<br>
+<strong>1.0.3</strong><br>
+<ul>
+<li>Restored the &quot;Thrusting One Hand Swords&quot; and &quot;Stackable Currency&quot; classes after GGG fixed the server side issue (<a href="https://www.pathofexile.com/forum/view-thread/1306473">2.0.0b Patch Notes</a>).</li>
+<li>Fixed an issue that made white lowlevel flasks appear as magic and the other way around.</li>
+</ul><br>
+<br>
+<strong>1.0.2</strong><br>
+<ul>
+<li>Restored &quot;Thrusting One Hand Swords&quot;.</li>
+<li>Fixed an issue that made average uniques appear using the currency textcolor. (thanks <a href="https://www.reddit.com/user/tsHavok">tsHavok</a>, <a href="https://www.reddit.com/user/Williwunda">Williwunda</a> &amp; <a href="https://www.reddit.com/user/fAnts">fAnts</a>)</li>
+</ul><br>
+<br>
+<strong>1.0.1</strong><br>
+<ul>
+<li>Hotfix for an issue on GGG&#039;s side.</li>
+<li>Removed &quot;Thrusting One Hand Swords&quot; and &quot;Stackable Currency&quot; due to the bug mentioned above.</li>
+<li>Removed the &quot;Valuable Unique&quot; subsection as it would need too many frequent updates for too little benefits. (thanks <a href="https://www.reddit.com/user/flzkpp">flzkpp</a>)</li>
+<li>Adjusted the Map section to reflect actual tiers (68 - 73; 74 - 78; 79+). (thanks <a href="https://www.reddit.com/user/revolct">revolct</a>)</li>
+<li>Removed white Gavels from the Chisel Recipe section (magic and rares with 12/16 quality are still shown) to allow the Chance section to take precedence.<br>
+</li>
+</ul><br>
+<br>
+<strong>1.0</strong><br>
+<ul>
+<li>Public Release for PoE 2.0 (The Awakening)</li>
+</ul><br>
+</div>
+        </div><br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Pictures</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+<strong>So how much more overview does it offer?</strong><br>
+<img src="http://www.thiessen.im/PoE/filter_hide_all_the_stuff.gif"><br>
+<br>
+<strong>Maps</strong><br>
+Default fontsize for lower level maps. (68-72 / white maps)<br>
+Slightly larger fontsize and dropsounds for medium level maps. (73-77 / yellow maps)<br>
+Highlight textcolor and larger font size for red maps. (78+ / red maps)<br>
+<img src="http://www.thiessen.im/PoE/filter_maps.png"><br>
+<br>
+<strong>Currency</strong><br>
+Different tiers for currency. Mirrors and Albino Feathers <em>really</em> stand out.<br>
+<img src="http://www.thiessen.im/PoE/filter_currency.png"><br>
+<br>
+<strong>High ItemLevel Rares</strong><br>
+Red border + orange fontcolor = 84+<br>
+Red border + yellow fontcolor = 79+<br>
+Yellow border = Best BaseType for the zone you are in<br>
+Random rare (no border) means a better basetype is available based on the zone level.<br>
+<img src="http://www.thiessen.im/PoE/filter_high_item_level.png"><br>
+<br>
+<strong>Links/Sockets</strong><br>
+6Ls (other than Tabula) are very rare and thus are highlighted by an uncommon font and border color as well as a larger font size.<br>
+5Ls receive the same border and a not as large a font size, no change in font color.<br>
+6Ss receive the same border and no change in text size or color.<br>
+<img src="http://www.thiessen.im/PoE/filter_links.png"><br>
+<br>
+<strong>Uniques</strong><br>
+<img src="http://www.thiessen.im/PoE/filter_uniques.png"><br>
+<br>
+<strong>Divination Cards</strong><br>
+Three different highlights/tiers.<br>
+<img src="http://www.thiessen.im/PoE/filter_cards.png"><br>
+<br>
+<strong>Chisel Recipe</strong><br>
+<img src="http://www.thiessen.im/PoE/filter_chisel_1.png"><br>
+<br>
+<strong>Gems</strong><br>
+Border for quality 10+ and droponly gems. Empower / Enlighten / Enhance also has a low volume dropsound.<br>
+<img src="http://www.thiessen.im/PoE/filter_gems.jpg"><br>
+<br>
+<strong>Jewels / Flasks</strong><br>
+<img src="http://www.thiessen.im/PoE/filter_misc.png"><br>
+<br>
+... and much more, for which I don&#039;t have pictures yet :)<br>
+<br>
+</div>
+        </div><br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Versions</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+There are currently three versions of the filter. Note that you can achieve the same result by using the toggles within the filter (refer to the Customization section for further details).<br>
+<br>
+<strong><a href="http://www.thiessen.im/PoE/oftrta_v3.4.3.filter">Regular Version (v3.4.3)</a></strong>:<br>
+The regular version covers all aspects of the game and by no means is it necessary to switch to a different version. If you&#039;re in doubt, use this one and you&#039;ll be fine.<br>
+<br>
+<strong><a href="http://www.thiessen.im/PoE/oftrta_v3.4.3_map.filter">Map Version (v3.4.3)</a></strong>:<br>
+The &quot;map version&quot; displays significantly less normal and magic items while continuing to show recipe and high itemlevel items. I usually switch at mid tier maps.<br>
+<br>
+To achieve the same, you can use the following toggles:<br>
+#Gear - Progression<br>
+#Currency - Bestiary Lower Tier Nets<br>
+#Amulets, Rings, Belts - 68+<br>
+#Amulets, Rings, Belts - 75+<br>
+#Gear - Endgame (T1 + Craft Bases) - 79+<br>
+<br>
+<strong><a href="http://www.thiessen.im/PoE/oftrta_v3.4.3_rich.filter">&quot;Rich&quot; Version (v3.4.3)</a></strong>:<br>
+Will be released during the league. It will focus on standard / endgame gameplay and only display high potential gear. I usually switch once I made 10 / 15 ex in a temporary league.<br>
+<br>
+Hidden toggles (so far):<br>
+#Currency - Wisdom Scroll<br>
+#Currency - Portal Scroll<br>
+#Currency - Orb of Augmentation<br>
+#Currency - Wisdom Scroll<br>
+#Currency - Armourer&#039;s Scrap &amp; Blacksmith&#039;s Whetstone<br>
+#Currency - Bestiary Steel Nets<br>
+#Gems - ~Q1+<br>
+#Gems - ~Vaal<br>
+#Gems - Active<br>
+#Gems - Support<br>
+#~Maps - DropLevel &lt;= 72<br>
+#Divination Cards - Low Value<br>
+#Misc - Chromatic Orb Recipe<br>
+#Misc - Chisel Recipe<br>
+#Gear - Endgame (T1 + Craft Bases) - 84+<br>
+#Gear - ~Rare - Endgame<br>
+#~Regal Recipe<br>
+#~Chaos Recipe<br>
+#Rares - DropLevel &lt;= 45<br>
+#Rares - DropLevel &lt;= 60<br>
+#Rares - ~CatchAll<br>
+#Currency - Scroll Fragment &amp; Alteration Shard<br>
+#Amulets, Rings, Belts - 84+<br>
+#Flasks - Quality - Q10+<br>
+<br>
+</div>
+        </div><br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Customization</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+This filter contains toggles that can be used to change the behavior of the script. It will however work just fine in its default state and is actually used in that state by the author.<br>
+<br>
+Please be aware that you will need an editor that is capable of replacing all occurances of a search token (Replace All).<br>
+<br>
+<br>
+Example usage:<br>
+Let&#039;s assume you&#039;re playing a 2 hand marauder that primarily uses strength items and isn&#039;t interested in pure dex/int armour, 1 hand weapons, staffs and bows.<br>
+<br>
+First, let&#039;s hide every piece of gear that is tagged as &quot;Progression&quot;:<br>
+1. Replace &quot;Show	#Gear - Progression&quot; by &quot;Hide	#Gear - Progression&quot;<br>
+<br>
+<strong>Attention: Make sure to use a <em>tab</em> between &quot;Show / Hide&quot; and &quot;#Gear&quot;. The forum doesn&#039;t allow tabs and replaces them with spaces. If you copy the line directly from the filter file, it will be a tab.</strong><br>
+<br>
+Now let&#039;s enable the gear we&#039;re actually interested in:<br>
+2. Replace &quot;Hide	#Gear - Progression - Armour - STR&quot; by		&quot;Show	#Gear - Progression - Armour - STR&quot;<br>
+3. Replace &quot;Hide	#Gear - Progression - Armour - STR/INT&quot;	by	&quot;Show	#Gear - Progression - Armour - STR/INT&quot;<br>
+4. Replace &quot;Hide	#Gear - Progression - Armour - DEX/STR&quot; by	&quot;Show	#Gear - Progression - Armour - DEX/STR&quot;<br>
+5. Replace &quot;Hide	#Gear - Progression - Weapon - Two Hand&quot; by	&quot;Show	#Gear - Progression - Weapon - Two Hand&quot;<br>
+<br>
+This will show STR and STR hybrid armour as well as Two Hand Maces/Swords/Axes.<br>
+The usual highlighting for top tier items based on zonelevel will still apply.<br>
+In addition top tier rares of other bases will be shown as well.<br>
+<br>
+<br>
+Similiar toggles are available for endgame (T1 + Craft Bases) items.<br>
+<br>
+<br>
+The list below is a subsection of available toggles.<br>
+There are more throughout the script, however I do not recommend using them unless you know what you are doing.<br>
+<br>
+#	Show	#Gear - Progression - Weapon - One Hand Axes - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - One Hand Axes - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Axes - 3/4 Linked Sockets - Normal<br>
+#	Show	#Gear - Progression - Weapon - One Hand Axes - 3/4 Linked Sockets - Magic<br>
+#	Show	#Gear - Progression - Weapon - One Hand Axes - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Axes - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Swords - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - One Hand Swords - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Swords - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Swords - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Maces - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Two Hand Maces - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Maces - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Maces - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Bows - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Bows - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Bows - 3/4 Linked Sockets - Normal<br>
+#	Show	#Gear - Progression - Weapon - Bows - 3/4 Linked Sockets - Magic<br>
+#	Show	#Gear - Progression - Weapon - Bows - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Bows - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Thrusting One Hand Swords - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Thrusting One Hand Swords - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Thrusting One Hand Swords - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Thrusting One Hand Swords - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Daggers - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Daggers - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Daggers - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Daggers - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Maces - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - One Hand Maces - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Maces - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - One Hand Maces - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Axes - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Two Hand Axes - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Axes - 3/4 Linked Sockets - Normal<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Axes - 3/4 Linked Sockets - Magic<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Axes - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Axes - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Swords - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Two Hand Swords - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Swords - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Two Hand Swords - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Claws - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Claws - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Claws - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Claws - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Sceptres - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Sceptres - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Sceptres - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Sceptres - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Staves - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Staves - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Staves - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Staves - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Weapon - Wands - Lowlevel<br>
+#	Hide	#Gear - Progression - Weapon - Wands - No Sockets<br>
+#	Show	#Gear - Progression - Weapon - Wands - 3/4 Linked Sockets<br>
+#	Show	#Gear - Progression - Weapon - Wands - 3/4 Sockets<br>
+<br>
+#	Show	#Gear - Progression - Armour - STR - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - STR - No Sockets<br>
+#	Show	#Gear - Progression - Armour - STR - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - STR - 3/4 Linked<br>
+#	Show	#Gear - Progression - Armour - DEX - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - DEX - No Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX - 3/4 Linked<br>
+#	Show	#Gear - Progression - Armour - INT - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - INT - No Sockets<br>
+#	Show	#Gear - Progression - Armour - INT - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - INT - 3/4 Linked<br>
+#	Show	#Gear - Progression - Armour - DEX/INT - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - DEX/INT - No Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX/INT - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX/INT - 3/4 Linked<br>
+#	Show	#Gear - Progression - Armour - STR/INT - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - STR/INT - No Sockets<br>
+#	Show	#Gear - Progression - Armour - STR/INT - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - STR/INT - 3/4 Linked<br>
+#	Show	#Gear - Progression - Armour - DEX/STR - Lowlevel<br>
+#	Hide	#Gear - Progression - Armour - DEX/STR - No Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX/STR - 3/4 Sockets<br>
+#	Show	#Gear - Progression - Armour - DEX/STR - 3/4 Linked<br>
+<br>
+#	Show	#Currency - Armourer&#039;s Scrap &amp; Blacksmith&#039;s Whetstone<br>
+#	Show	#Currency - Portal Scroll<br>
+#	Show	#Currency - Wisdom Scroll<br>
+#	Show	#Currency - Scroll Fragment &amp; Alteration Shard<br>
+<br>
+#	Show	#Gems - Active<br>
+#	Show	#Gems - Support<br>
+<br>
+#	Show	#Divination Cards - Low Value<br>
+<br>
+#	Show	#Leveling Specials - Quartz Sceptre<br>
+#	Show	#Leveling Specials - Sceptres<br>
+#	Show	#Leveling Specials - Quivers<br>
+<br>
+#	Show	#Misc - Chromatic Orb Recipe - 4x1<br>
+#	Show	#Misc - Chromatic Orb Recipe - 3x1<br>
+#	Show	#Misc - Chromatic Orb Recipe - 2x2<br>
+#	Show	#Misc - Chromatic Orb Recipe - Large<br>
+<br>
+#	Show	#Misc - Chisel Recipe - Normal<br>
+#	Show	#Misc - Chisel Recipe - Magic<br>
+#	Show	#Misc - Chisel Recipe - Rare<br>
+<br>
+#	Hide	#Amulets, Rings, Belts - Scarcely used ring bases<br>
+#	Hide	#Amulets, Rings, Belts - Iron Ring<br>
+#	Hide	#Amulets, Rings, Belts - Scarcely used belt bases<br>
+#	Show	#Amulets, Rings, Belts - 84+ - Normal<br>
+#	Show	#Amulets, Rings, Belts - 84+ - Magic<br>
+#	Show	#Amulets, Rings, Belts - 75+ - Normal<br>
+#	Hide	#Amulets, Rings, Belts - 75+ - Magic<br>
+#	Show	#Amulets, Rings, Belts - 68+ - Normal<br>
+#	Hide	#Amulets, Rings, Belts - 68+ - Magic<br>
+#	Show	#Amulets, Rings, Belts - &lt;68 - Normal<br>
+#	Show	#Amulets, Rings, Belts - &lt;68 - Magic<br>
+<br>
+#	Show	#Flasks - Quality - Q10+ - Normal<br>
+#	Show	#Flasks - Quality - Q10+ - Magic<br>
+#	Hide	#Flasks - Quality - Q1+<br>
+#	Show	#Flasks - Progression - Life/Mana - Small<br>
+#	Show	#Flasks - Progression - Life/Mana - Medium<br>
+#	Show	#Flasks - Progression - Life/Mana - Large<br>
+#	Show	#Flasks - Progression - Life/Mana - Greater<br>
+#	Show	#Flasks - Progression - Life/Mana - Grand<br>
+#	Show	#Flasks - Progression - Life/Mana - Giant<br>
+#	Show	#Flasks - Progression - Life/Mana - Colossal<br>
+#	Show	#Flasks - Progression - Life/Mana - Sacred<br>
+#	Show	#Flasks - Progression - Life/Mana - Hallowed<br>
+#	Show	#Flasks - Progression - Life/Mana - Sanctified<br>
+#	Show	#Flasks - Progression - Life/Mana - Divine + Eternal<br>
+#	Show	#Flasks - Progression - Hybrid - Q5+<br>
+#	Show	#Flasks - Progression - Hybrid - Small<br>
+#	Show	#Flasks - Progression - Hybrid - Medium<br>
+#	Show	#Flasks - Progression - Hybrid - Large<br>
+#	Show	#Flasks - Progression - Hybrid - Colossal<br>
+#	Show	#Flasks - Progression - Hybrid - Sacred<br>
+#	Show	#Flasks - Progression - Hybrid - Hallowed<br>
+#	Show	#Flasks - Endgame - Utility - Normal<br>
+#	Show	#Flasks - Endgame - Utility - Magic<br>
+#	Show	#Flasks - Progression - Utility<br>
+<br>
+#	Show	#Rares - DropLevel &lt;= 45<br>
+#	Show	#Rares - DropLevel &lt;= 60<br>
+</div>
+        </div><br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Frequently Asked Questions</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+<strong>Which editor should I use to edit the file?</strong><br>
+I recommend Notepad++.<br>
+<br>
+<strong>How do I add a BaseType to the Chance section?</strong><br>
+Open the file and search for &quot;### Chance&quot;, that will get you to the chance section. Copy one of the existing blocks and replace the BaseType with the one you would like to add.<br>
+<br>
+<strong>Why is this better than the other filters?</strong><br>
+I don&#039;t know if it&#039;s better than the others for you. That depends on your personal requirements. The concept of &quot;better&quot; or &quot;best&quot; is highly subjective. Know what you need/want and match against that. Then you found your personal best filter.<br>
+<br>
+<strong>Why are 3L Quartz Sceptre highlighted? / I found a bug. A chromatic Quartz or Crystal Sceptre isn&#039;t highlighted as a RGB item.</strong><br>
+Many people use 3L Quartz Sceptre for leveling. There&#039;s a cheap <a href="http://pathofexile.gamepedia.com/Vendor_recipe_system#Crafting">recipe</a> that gives +1 to lightning/cold/fire gems which makes it a very good weapon early on for a variety of skills (Fire Trap, Flame Totem, Lightning Tendrils etc.).<br>
+<br>
+Quartz Sceptre are highlighted by a red border until level 25. Between 25 and 51 they are simply displayed without any highlighting as they might still be useful.<br>
+<br>
+The section that deals with these &quot;Leveling Specials&quot; is located above the RGB section in the filter, meaning it takes precedence and this sometimes causes confusion if the Sceptre in question has a chromatic linking. Once you&#039;re in a zonelevel above 51, they will be shown as chromatic items again.<br>
+<br>
+<strong>Do you have a paypal account? Can I donate something for your effort?</strong><br>
+I don&#039;t like the company for a whole lot of reasons so I try to avoid using it where I can.<br>
+<br>
+I really do appreciate the thought, though. If you feel like donating anyway, consider donating to a charity and let me know. That would certainly warm my heart :)<br>
+<br>
+Some people donated <a href="https://www.reddit.com/gold?goldtype=gift&amp;recipient=loift">Reddit Gold</a>, which I also very much enjoy(ed).<br>
+</div>
+        </div><br>
+        <div class="spoiler spoilerHidden">
+            <div class="spoilerTitle">
+                <span>Thank you</span>
+                <input class="button1" type="button" title="Show" value="Show" onclick="return POE.Forum.SpoilerClick(this);">
+            </div>
+        	<div class="spoilerContent"><br>
+Know this: Without all your feedback this wouldn&#039;t be half as neat as I think it is :) So thanks a lot! And thanks again to GGG for making this possible:<br>
+<br>
+<a href="https://www.pathofexile.com/account/view-profile/Antnee">Antnee</a> - (<a href="http://www.pathofexile.com/forum/view-thread/1245785">His Filter</a>)<br>
+<a href="https://www.pathofexile.com/account/view-profile/Alexlulz">Alexlulz</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/AtomYcX">AtomYcX</a> - (<a href="https://www.pathofexile.com/forum/view-thread/1287447/">Filtration</a>)<br>
+<a href="https://www.pathofexile.com/account/view-profile/charon_hh">charon_hh</a><br>
+<a href="https://www.reddit.com/user/cloud_templar">cloud_templar</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/CoolColJ">CoolColJ</a><br>
+<a href="https://www.reddit.com/user/DeepoInsido">DeepoInsido</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/didevol">didevol</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Dr0etker">Dr0etker</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Druga1757">Druga1757</a><br>
+<a href="https://www.reddit.com/user/flzkpp">flzkpp</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/FnTsTiC">FnTsTiC</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/heisl">heisl</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/kHronos07">kHronos07</a><br>
+<a href="https://www.reddit.com/user/KsiaN">KsiaN</a><br>
+<a href="https://www.reddit.com/user/Lethalres">Lethalres</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/matkod">matkod</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/mazaki83">mazaki83</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Meisen">Meisen</a><br>
+<a href="https://www.reddit.com/user/moldyredditor">moldyredditor</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/NanoDestiny">NanoDestiny</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Nazdravan">Nazdravan</a><br>
+<a href="https://www.reddit.com/user/nrgdallas">nrgdallas</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/nugiyen">nugiyen</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Psy_HEI">Psy_HEI</a><br>
+<a href="https://www.reddit.com/u/ryzeonline">ryzeonline</a>  - (<a href="https://www.reddit.com/gold?goldtype=gift&amp;recipient=loift">Reddit Gold</a>)<br>
+<a href="https://www.reddit.com/user/sanquility">sanquility</a><br>
+<a href="https://www.reddit.com/user/Shiva-">Shiva-</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/__SirPuFFaLoT__">SirPuFFaLoT</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/SmoczyArchaniol">SmoczyArchaniol</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/StrikeQ">StrikeQ</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/therestless">therestless</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/thevdende">thevdende</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/tyrot">tyrot</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/uit">uit</a><br>
+<a href="https://www.reddit.com/user/Umbralforce">Umbralforce</a><br>
+<a href="https://www.reddit.com/r/pathofexile/comments/3cry9i/loot_filter_released_one_filter_to_rule_them_all/">Unknown</a> - (<a href="https://www.reddit.com/gold?goldtype=gift&amp;recipient=loift">Reddit Gold</a>)<br>
+<a href="https://www.pathofexile.com/account/view-profile/ustinov">ustinov</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/Vods">Vods</a><br>
+<a href="https://www.pathofexile.com/account/view-profile/zXzLenin">zXzLenin</a><br>
+<br>
+Should I have forgotten anyone, please let me know!<br>
+</div>
+        </div><br>
+<br>
+<strong>Features / Ideas</strong><br>
+<ul>
+<li>One filter to cover everything from leveling to racing and endgame content without compromise.</li>
+<li>Sane defaults while offering all the options in the world for those that like to customize.</li>
+<li>Be easy on the eyes, default colors look nice so let&#039;s use them where we can.</li>
+<li>Smooth integration, no learning period, be intuitive.</li>
+<li>Highlight stuff that is worth highlighting. Most of the items are hidden anyway, so there&#039;s no need to go over board.</li>
+</ul><br>
+<strong>More specific</strong><br>
+Highlight/Show:<br>
+<br>
+<ul>
+<li>really rare items (Mirror, Fishing Rod, ...) in stark colors</li>
+<li>6L, 5L, 6S</li>
+<li>Chromatics with a slight green border</li>
+<li>Chisel recipe items (Gavel, Stone Hammer and Rock Breaker) with a grey bordercolor</li>
+<li>Rare currency (Eternal, Exalt, Divine) with a unique bordercolor</li>
+<li>Gems with 10+ quality by adding a border in the default gem color</li>
+<li>Maps that are level 74+/79+</li>
+<li>Prefered chaos/regal recipe items</li>
+<li>Rare jewellery (rings, amulets, belts) with a rare border</li>
+<li>3L Quartz / Crystal Sceptre with a stark red border during lvling</li>
+<li>Quality Flasks in a slightly brighter font</li>
+<li>T1 Armour (normal/magic) with 3/4 sockets; &gt;= 79/84 in a slightly brighter font / background</li>
+<li>T1 Weapons (normal/magic) with 3/4 sockets; &gt;= 79/84 in a slightly brighter font / background</li>
+<li>Highest available rare item tier based on zone level with a rare bordercolor</li>
+<li>Rare T1 Armour, Weapons and Craft bases with an itemlevel &gt;= 79/84</li>
+</ul><br>
+<br>
+<strong>Change behavior based on zone level</strong><br>
+During leveling you will see less and less normal/magic items as you progress. Generally normal and magic items are shown as long as they are appropriate for the current zone.<br>
+By default items need a certain amount of sockets to be shown to reduce clutter. This can be modified using the various toggles existing in the script.<br>
+<br>
+Rare items are highlighted if their basetype is the currently highest available.<br>
+Example: You are in a level 21 zone and a rare &quot;Recurve Bow&quot; (DropLevel = 20) drops, it will receive a rare border to indicate that there is currently no better bow basetype available. Once &quot;Bone Bows&quot; (DropLevel = 24) become available because you moved to a higher zone, those will receive the border.<br>
+<br>
+This is done for every Body Armour / Weapon basetype currently in the game.<br>
+<br>
+Have fun, feedback welcome!<br>
+</div>
+                <div class="signature">One Filter to Rule Them All: https://www.pathofexile.com/forum/view-thread/1259059</div><div class="last_edited_by">Last edited by Muldini on Sep 6, 2018, 12:18:04 AM</div><div class="last_bumped">Last bumped on Sep 25, 2018, 6:16:07 AM</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10574956"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjo1NjMsInNpemUiOiJhdmF0YXIifV0/1af23c2015/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10574956">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="muldini"><a href="/account/view-profile/Muldini"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/16.png?v=13" alt="Completed 16 Challenges" title="Completed 16 Challenges" />Muldini</a><a class="twitch" href="//www.twitch.tv/muldini" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 6:08:42 AM</span><div class="badges clearfix"><div class="badge  awakeningSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening1.png" title="Awakening Supporter" alt="Awakening Supporter"></div><div class="badge  hydraSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas2.png" title="Hydra Supporter" alt="Hydra Supporter"></div><div class="badge  scholarLabel"><img src="https://web.poecdn.com/image/forum/badges/WftAScholar.png" title="Scholar Supporter" alt="Scholar Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10574956" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr class="even">            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content"><strong>Best Filter EU!</strong><span style="text-decoration:underline"></span></div>
+                <div class="signature"></div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10574968"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjowLCJzaXplIjoiYXZhdGFyIn1d/1cbf9cc398/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10574968">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="h_e_i_s_l"><a href="/account/view-profile/heisl"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/2.png?v=13" alt="Completed 2 Challenges" title="Completed 2 Challenges" />heisl</a><a class="twitch" href="//www.twitch.tv/h_e_i_s_l" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 6:13:07 AM</span><div class="badges clearfix"><div class="badge  abyssalImpLabel"><img src="https://web.poecdn.com/image/forum/badges/AbyssImp.png" title="Abyssal Imp Supporter" alt="Abyssal Imp Supporter"></div><div class="badge  minotaurSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas1.png" title="Minotaur Supporter" alt="Minotaur Supporter"></div><div class="badge  harbingerLabel"><img src="https://web.poecdn.com/image/forum/badges/Harbinger.png" title="Harbinger Supporter" alt="Harbinger Supporter"></div><div class="badge  legacyLabel"><img src="https://web.poecdn.com/image/forum/badges/Legacy.png" title="Legacy Supporter" alt="Legacy Supporter"></div><div class="badge  axiomSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening2.png" title="Axiom Supporter" alt="Axiom Supporter"></div><div class="badge  seekerLabel"><img src="https://web.poecdn.com/image/forum/badges/WftASeeker.png" title="Seeker Supporter" alt="Seeker Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10574968" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr>            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">When I try to load it in the game I get this message<br>
+<br>
+Failed to load item filter: Line 12652: unable to parse parameter for base type rule: no base types found matching  &quot;Maelstorm Staff&quot;<br>
+</div>
+                <div class="signature"></div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575160"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjoxMDEsInNpemUiOiJhdmF0YXIifV0/9d94e20177/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575160">Posted by</a> <span class="profile-link post_by_account" ><a href="/account/view-profile/GhostPain"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/10.png?v=13" alt="Completed 10 Challenges" title="Completed 10 Challenges" />GhostPain</a></span><br>on <span class="post_date">May 3, 2015, 7:01:02 AM</span><div class="badges clearfix"><div class="badge  goldSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Closed4.png" title="Gold Supporter" alt="Gold Supporter"></div><div class="badge  divineSupporter"><img src="https://web.poecdn.com/image/forum/badges/Open3.png" title="Divine Supporter" alt="Divine Supporter"></div><div class="badge  warriorSupporter"><img src="https://web.poecdn.com/image/forum/badges/Release2.png" title="Warrior Supporter" alt="Warrior Supporter"></div><div class="badge  grandmasterSupporter"><img src="https://web.poecdn.com/image/forum/badges/Forsaken4.png" title="Grandmaster Supporter" alt="Grandmaster Supporter"></div><div class="badge  lunarisSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening4.png" title="Lunaris Supporter" alt="Lunaris Supporter"></div><div class="badge  prophecySupporter"><img src="https://web.poecdn.com/image/forum/badges/Prophecy1.png" title="Prophecy Supporter" alt="Prophecy Supporter"></div><div class="badge  alphaHarpyLabel"><img src="https://web.poecdn.com/image/forum/badges/BeastiaryHarpyAlpha.png" title="Alpha Harpy Supporter" alt="Alpha Harpy Supporter"></div><div class="badge  highCouncilLabel"><img src="https://web.poecdn.com/image/forum/badges/IncursionHighCouncil.png" title="High Council Supporter" alt="High Council Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575160" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr class="even">            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">Uploaded a new version, can you try right clicking the link and choose &quot;Save link to&quot; and then rename the file to &quot;something.filter&quot;?<br>
+<br>
+I believe it has something to do with charsets/encodings being changed if you copy/paste the content to a new file.</div>
+                <div class="signature">One Filter to Rule Them All: https://www.pathofexile.com/forum/view-thread/1259059</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575221"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjo1NjMsInNpemUiOiJhdmF0YXIifV0/1af23c2015/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575221">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="muldini"><a href="/account/view-profile/Muldini"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/16.png?v=13" alt="Completed 16 Challenges" title="Completed 16 Challenges" />Muldini</a><a class="twitch" href="//www.twitch.tv/muldini" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 7:15:21 AM</span><div class="badges clearfix"><div class="badge  awakeningSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening1.png" title="Awakening Supporter" alt="Awakening Supporter"></div><div class="badge  hydraSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas2.png" title="Hydra Supporter" alt="Hydra Supporter"></div><div class="badge  scholarLabel"><img src="https://web.poecdn.com/image/forum/badges/WftAScholar.png" title="Scholar Supporter" alt="Scholar Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575221" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr>            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">I tried the new file, got the same error message but with a different line number, 14988</div>
+                <div class="signature"></div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575377"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjoxMDEsInNpemUiOiJhdmF0YXIifV0/9d94e20177/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575377">Posted by</a> <span class="profile-link post_by_account" ><a href="/account/view-profile/GhostPain"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/10.png?v=13" alt="Completed 10 Challenges" title="Completed 10 Challenges" />GhostPain</a></span><br>on <span class="post_date">May 3, 2015, 7:53:53 AM</span><div class="badges clearfix"><div class="badge  goldSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Closed4.png" title="Gold Supporter" alt="Gold Supporter"></div><div class="badge  divineSupporter"><img src="https://web.poecdn.com/image/forum/badges/Open3.png" title="Divine Supporter" alt="Divine Supporter"></div><div class="badge  warriorSupporter"><img src="https://web.poecdn.com/image/forum/badges/Release2.png" title="Warrior Supporter" alt="Warrior Supporter"></div><div class="badge  grandmasterSupporter"><img src="https://web.poecdn.com/image/forum/badges/Forsaken4.png" title="Grandmaster Supporter" alt="Grandmaster Supporter"></div><div class="badge  lunarisSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening4.png" title="Lunaris Supporter" alt="Lunaris Supporter"></div><div class="badge  prophecySupporter"><img src="https://web.poecdn.com/image/forum/badges/Prophecy1.png" title="Prophecy Supporter" alt="Prophecy Supporter"></div><div class="badge  alphaHarpyLabel"><img src="https://web.poecdn.com/image/forum/badges/BeastiaryHarpyAlpha.png" title="Alpha Harpy Supporter" alt="Alpha Harpy Supporter"></div><div class="badge  highCouncilLabel"><img src="https://web.poecdn.com/image/forum/badges/IncursionHighCouncil.png" title="High Council Supporter" alt="High Council Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575377" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr class="even">            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">Can&#039;t reproduce the error. If I download the file and safe it as oftrta_muldini_v0.7b.filter in my PoE folder, it loads without error.<br>
+<br>
+You can try to remove the three blocks for Maelstr&ouml;m Staff around the line number you mentioned. If I find out what&#039;s causiung this I&#039;ll upload a new version.</div>
+                <div class="signature">One Filter to Rule Them All: https://www.pathofexile.com/forum/view-thread/1259059</div><div class="last_edited_by">Last edited by Muldini on May 3, 2015, 8:04:22 AM</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575401"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjo1NjMsInNpemUiOiJhdmF0YXIifV0/1af23c2015/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575401">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="muldini"><a href="/account/view-profile/Muldini"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/16.png?v=13" alt="Completed 16 Challenges" title="Completed 16 Challenges" />Muldini</a><a class="twitch" href="//www.twitch.tv/muldini" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 7:58:54 AM</span><div class="badges clearfix"><div class="badge  awakeningSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening1.png" title="Awakening Supporter" alt="Awakening Supporter"></div><div class="badge  hydraSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas2.png" title="Hydra Supporter" alt="Hydra Supporter"></div><div class="badge  scholarLabel"><img src="https://web.poecdn.com/image/forum/badges/WftAScholar.png" title="Scholar Supporter" alt="Scholar Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575401" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr>            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">You know that you can simply make 1 role for this 200 items list? and save like 200 lines?...</div>
+                <div class="signature">IGN: MENT<br />
+<br />
+https://github.com/ment2008/POE/releases - My Loot Filter<br />
+</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575601"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjoyNzcsInNpemUiOiJhdmF0YXIifV0/c7c13910b7/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575601">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="ment2008"><a href="/account/view-profile/ment2008"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/29.png?v=13" alt="Completed 29 Challenges" title="Completed 29 Challenges" />ment2008</a><a class="twitch" href="//www.twitch.tv/ment2008" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 8:34:03 AM</span><div class="badges clearfix"><div class="badge  ascendantSupporter"><img src="https://web.poecdn.com/image/forum/badges/Ascendancy4.png" title="Ascendant Supporter" alt="Ascendant Supporter"></div><div class="badge  legacyLabel"><img src="https://web.poecdn.com/image/forum/badges/Legacy.png" title="Legacy Supporter" alt="Legacy Supporter"></div><div class="badge  breachlordLabel"><img src="https://web.poecdn.com/image/forum/badges/Breach2.png" title="Breachlord Supporter" alt="Breachlord Supporter"></div><div class="badge  harbingerLabel"><img src="https://web.poecdn.com/image/forum/badges/Harbinger.png" title="Harbinger Supporter" alt="Harbinger Supporter"></div><div class="badge  KitavaLabel"><img src="https://web.poecdn.com/image/forum/badges/Kitava.png" title="Kitava Supporter" alt="Kitava Supporter"></div><div class="badge  vaalSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening3.png" title="Vaal Supporter" alt="Vaal Supporter"></div><div class="badge  alphaManticoreLabel"><img src="https://web.poecdn.com/image/forum/badges/BeastiaryManticoreAlpha.png" title="Alpha Manticore Supporter" alt="Alpha Manticore Supporter"></div><div class="badge  apprenticeSupporter"><img src="https://web.poecdn.com/image/forum/badges/Forsaken1.png" title="Apprentice Supporter" alt="Apprentice Supporter"></div><div class="badge  minotaurSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas1.png" title="Minotaur Supporter" alt="Minotaur Supporter"></div><div class="badge  abyssalLichLabel"><img src="https://web.poecdn.com/image/forum/badges/AbyssLich.png" title="Abyssal Lich Supporter" alt="Abyssal Lich Supporter"></div><div class="badge  harpyLabel"><img src="https://web.poecdn.com/image/forum/badges/BeastiaryHarpy.png" title="Harpy Supporter" alt="Harpy Supporter"></div><div class="badge  grandConquestLabel"><img src="https://web.poecdn.com/image/forum/badges/IncursionGrandConquest.png" title="Grand Conquest Supporter" alt="Grand Conquest Supporter"></div><div class="badge  DreadforgeLabel"><img src="https://web.poecdn.com/image/forum/badges/DelveDreadForge.png" title="Dreadforge Supporter" alt="Dreadforge Supporter"></div><div class="badge  StalkerLabel"><img src="https://web.poecdn.com/image/forum/badges/DelveStalker.png" title="Stalker Supporter" alt="Stalker Supporter"></div><div class="badge  redeemerLabel"><img src="https://web.poecdn.com/image/forum/badges/WftARedeemer.png" title="Redeemer Supporter" alt="Redeemer Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575601" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr class="even">            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">Great filter, very robust.<br>
+<br>
+I do question the validity of showing &#039;all&#039; quality items until 75+... it&#039;s all about the space, so even at low levels I&#039;m only looking at 1x3 and 2x2 items and pots.  I&#039;m not really interested in tower shields and longbows and 2h weapons - they&#039;re just too large, even at low level.<br>
+<br>
+I&#039;m not yet sure if I want to have a base threshold on item quality, however, since even sub-5 quality can balance out a 40 point lot.<br>
+<br>
+</div>
+                <div class="signature"></div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575665"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjoyODEsInNpemUiOiJhdmF0YXIifV0/eb2eb87ccb/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575665">Posted by</a> <span class="profile-link post_by_account" ><a href="/account/view-profile/BlaqWolf"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/17.png?v=13" alt="Completed 17 Challenges" title="Completed 17 Challenges" />BlaqWolf</a></span><br>on <span class="post_date">May 3, 2015, 8:46:40 AM</span><div class="badges clearfix"><div class="badge  OutlawLabel"><img src="https://web.poecdn.com/image/forum/badges/Outlaw.png" title="Outlaw Supporter" alt="Outlaw Supporter"></div><div class="badge  harbingerLabel"><img src="https://web.poecdn.com/image/forum/badges/Harbinger.png" title="Harbinger Supporter" alt="Harbinger Supporter"></div><div class="badge  redeemerLabel"><img src="https://web.poecdn.com/image/forum/badges/WftARedeemer.png" title="Redeemer Supporter" alt="Redeemer Supporter"></div><div class="badge  alphaHarpyLabel"><img src="https://web.poecdn.com/image/forum/badges/BeastiaryHarpyAlpha.png" title="Alpha Harpy Supporter" alt="Alpha Harpy Supporter"></div><div class="badge  DreadforgeLabel"><img src="https://web.poecdn.com/image/forum/badges/DelveDreadForge.png" title="Dreadforge Supporter" alt="Dreadforge Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575665" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr>            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">    <blockquote class="">
+        <span class="quote">"</span>
+        <div class="top">
+            <cite><span class="profile-link hasTwitch" data-twitch-user="ment2008"><a href="/account/view-profile/ment2008"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/29.png?v=13" alt="Completed 29 Challenges" title="Completed 29 Challenges" />ment2008</a><a class="twitch" href="//www.twitch.tv/ment2008" target="_blank"></a></span> wrote:</cite>
+        </div>
+        <div class="bot">
+            You know that you can simply make 1 role for this 200 items list? and save like 200 lines?...
+            <div class="clear"></div>
+        </div>
+    </blockquote><br>
+<br>
+It&#039;s not the same as generating a list that says &quot;Show this BaseType until two higher BaseTypes of the same class are available&quot;. Yours would be an approximation. That is unless all BaseTypes of different classes have the same DropLevel, which I doubt.</div>
+                <div class="signature">One Filter to Rule Them All: https://www.pathofexile.com/forum/view-thread/1259059</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575696"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjo1NjMsInNpemUiOiJhdmF0YXIifV0/1af23c2015/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575696">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="muldini"><a href="/account/view-profile/Muldini"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/16.png?v=13" alt="Completed 16 Challenges" title="Completed 16 Challenges" />Muldini</a><a class="twitch" href="//www.twitch.tv/muldini" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 8:52:30 AM</span><div class="badges clearfix"><div class="badge  awakeningSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening1.png" title="Awakening Supporter" alt="Awakening Supporter"></div><div class="badge  hydraSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas2.png" title="Hydra Supporter" alt="Hydra Supporter"></div><div class="badge  scholarLabel"><img src="https://web.poecdn.com/image/forum/badges/WftAScholar.png" title="Scholar Supporter" alt="Scholar Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575696" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr><tr class="even">            <td class="content-container">
+                <div class="contentStart"></div>
+                <div class="content">    <blockquote class="">
+        <span class="quote">"</span>
+        <div class="top">
+            <cite><span class="profile-link" ><a href="/account/view-profile/BlaqWolf"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/17.png?v=13" alt="Completed 17 Challenges" title="Completed 17 Challenges" />BlaqWolf</a></span> wrote:</cite>
+        </div>
+        <div class="bot">
+            Great filter, very robust.<br>
+<br>
+I do question the validity of showing &#039;all&#039; quality items until 75+... it&#039;s all about the space, so even at low levels I&#039;m only looking at 1x3 and 2x2 items and pots.  I&#039;m not really interested in tower shields and longbows and 2h weapons - they&#039;re just too large, even at low level.<br>
+<br>
+I&#039;m not yet sure if I want to have a base threshold on item quality, however, since even sub-5 quality can balance out a 40 point lot.<br>
+<br>
+
+            <div class="clear"></div>
+        </div>
+    </blockquote><br>
+<br>
+Thank you for testing and providing feedback. I really appreciate it.<br>
+Could you elaborate on the &quot;all quality items&quot; part? I believe only certain items that have quality are shown unless they have 20% quality. If you mean thatone then I agree, ideas on how to improve that block?</div>
+                <div class="signature">One Filter to Rule Them All: https://www.pathofexile.com/forum/view-thread/1259059</div>
+            </td>             <td class="post_info">
+                <div class="post_info_content">
+                    <div class="post_anchor" id="p10575711"></div>        <div class="avatar frame1">
+                <img src="https://web.poecdn.com/gen/image/WzAsMSx7ImlkIjo1NjMsInNpemUiOiJhdmF0YXIifV0/1af23c2015/Path_of_Exile_Gallery_Image.jpg" alt="Avatar">
+        </div><div class="posted-by"><a class="posted-by-link" href="#p10575711">Posted by</a> <span class="profile-link post_by_account hasTwitch" data-twitch-user="muldini"><a href="/account/view-profile/Muldini"><img class="achievement" src="https://web.poecdn.com/image/icons/achievements/Delve/16.png?v=13" alt="Completed 16 Challenges" title="Completed 16 Challenges" />Muldini</a><a class="twitch" href="//www.twitch.tv/muldini" target="_blank"></a></span><br>on <span class="post_date">May 3, 2015, 8:55:31 AM</span><div class="badges clearfix"><div class="badge  awakeningSupporter"><img src="https://web.poecdn.com/image/forum/badges/Awakening1.png" title="Awakening Supporter" alt="Awakening Supporter"></div><div class="badge  hydraSupporterLabel"><img src="https://web.poecdn.com/image/forum/badges/Atlas2.png" title="Hydra Supporter" alt="Hydra Supporter"></div><div class="badge  scholarLabel"><img src="https://web.poecdn.com/image/forum/badges/WftAScholar.png" title="Scholar Supporter" alt="Scholar Supporter"></div></div></div><div class="buttons">                <a class="uiQuoteButton" title="Quote this Post" href="/forum/post-reply/1259059/quote/10575711" rel="nofollow"><span>Quote this Post</span></a></div>
+                </div>
+            </td></tr>
+			</table></div>
+
+<div id="forum-report-box">
+    <h3>Report Forum Post</h3>
+    <form id="forum-report-form" class="t1">
+        <input type="hidden" value="" name="reported_name" />
+        <input type="hidden" value="" name="forum_post_id" />
+        <p><strong>Report Account:</strong> <span class="reported_name"></span></p>
+        <p><strong>Report Type</strong></p>
+        <select name="type">
+            <option value="">Select type</option>
+            <option value="0">Hate speech</option>
+            <option value="2">Harassment</option>
+            <option value="3">Spam</option>
+            <option value="100">Against Forum Guidelines</option>
+            <option value="101">Other</option>
+        </select>
+        <p><strong>Additional Info</strong></p>
+        <textarea name="description" rows="6"></textarea><br/>
+        <input type="submit" class="button1 important" value="Submit" />
+    </form>
+</div>
+
+</div>
+    <div class="botBar first forumControls"><div class="pagination"><a class="current" href="/forum/view-thread/1259059/page/1">1</a><a href="/forum/view-thread/1259059/page/2">2</a><a href="/forum/view-thread/1259059/page/3">3</a><a href="/forum/view-thread/1259059/page/4">4</a><span class="separator">&hellip;</span><a href="/forum/view-thread/1259059/page/110">110</a><a href="/forum/view-thread/1259059/page/111">111</a><a href="/forum/view-thread/1259059/page/2">Next</a></div><div class="mainButtons"><a class="button1" href="/forum/view-thread/1259059/filter-account-type/staff" rel="nofollow">View Staff Posts</a><a rel="nofollow" class="button1 important" href="/forum/post-reply/1259059" rel="nofollow">Post Reply</a></div></div><div class="botBar last"><div class="breadcrumb"><a href="/forum">Forum Index</a><span class="separator">»</span><a href="/forum/view-forum/gameplay-discussion">Gameplay Help and Discussion</a><span class="separator">»</span><a href="/forum/view-thread/1259059">View Thread</a></div></div>
+</div>                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="backdrop"></div>
+            <div class="wrapper">
+                <div class="sitemap">
+                    <div class="column"><h3><a href="http://pathofexile.com/">Home</a></h3><ul><li><a href="http://pathofexile.com/news">News</a></li><li><a href="https://pathofexile.com/account/create">Create Account</a></li><li><a href="https://pathofexile.com/login">Log In</a></li><li><a href="http://pathofexile.com/forum/view-forum/patch-notes">Patch Notes</a></li></ul></div>                    <div class="column"><h3><a href="https://pathofexile.com/game">Game</a></h3><ul><li><a href="http://pathofexile.com/video">Videos</a></li><li><a href="http://pathofexile.com/gallery">Gallery</a></li><li><a href="#"></a></li><li><a href="https://pathofexile.com/game">Overview</a></li><li><a href="http://pathofexile.com/passive-skill-tree">Passive Tree</a></li><li><a href="http://pathofexile.com/ascendancy/classes">Ascendancy Classes</a></li><li><a href="http://pathofexile.com/item-data">Items</a></li><li><a href="#"></a></li><li><a href="http://pathofexile.gamepedia.com/">Community Wiki</a></li></ul></div>                    <div class="column"><h3><a href="http://pathofexile.com/forum">Forum</a></h3><ul><li><a href="http://pathofexile.com/forum">Index</a></li><li><a href="http://pathofexile.com/forum/view-thread/1457463">Code of Conduct</a></li><li><a href="http://pathofexile.com/search">Search</a></li></ul></div>                    <div class="column centerColumn"></div>
+                    <div class="column"><h3><a href="http://pathofexile.com/events">Events</a></h3><ul><li><a href="http://pathofexile.com/events">Event Calendar</a></li><li><a href="http://pathofexile.com/seasons">Race Season</a></li><li><a href="http://pathofexile.com/signature-races/ladder">Signature Races</a></li><li><a href="#"></a></li><li><a href="http://pathofexile.com/forum/view-thread/2202342">Delve</a></li><li><a href="http://pathofexile.com/forum/view-thread/2202343">Hardcore Delve</a></li><li><a href="http://pathofexile.com/forum/view-thread/71278">Standard</a></li><li><a href="http://pathofexile.com/forum/view-thread/71276">Hardcore</a></li><li><a href="http://pathofexile.com/forum/view-thread/2202345">SSF Delve</a></li><li><a href="http://pathofexile.com/forum/view-thread/2202346">SSF Hardcore Delve</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841357">SSF Standard</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841353">SSF Hardcore</a></li><li><a href="#"></a></li><li><a href="http://pathofexile.com/ladder/labyrinth">Labyrinth Ladders</a></li></ul></div>                    <div class="column"><h3><a href="http://pathofexile.com/trade">Trade</a></h3><ul><li><a href="http://pathofexile.com/trade/search">Search Items</a></li><li><a href="http://pathofexile.com/trade/exchange">Bulk Item Exchange</a></li><li><a href="http://pathofexile.com/trade/about">About</a></li></ul></div>                    <div class="column"><h3><a href="https://pathofexile.com/shop">Shop</a></h3><ul><li><a href="https://pathofexile.com/purchase">Buy Packs</a></li><li><a href="#"></a></li><li><a href="https://pathofexile.com/shop">Microtransactions</a></li><li><a href="https://pathofexile.com/shop/category/daily-deals">Specials</a></li></ul></div>                </div>
+                                <div class="bottom">
+                    <span class="copyright">&#169; 2010 - 2018 <a href="http://www.grindinggear.com">Grinding Gear Games</a></span>
+                    <span class="legal">
+                        <a href="/legal/terms-of-use-and-privacy-policy">Terms of Use, Privacy Policy and Cookies Policy</a> - <a href="/support">Contact Support</a>
+                    </span>
+                    - <span><a href="/developer/docs/api">Developer API</a></span>
+                    <br>
+                    <a class="logo" href="http://www.grindinggear.com"><img src="https://web.poecdn.com/image/logo/ggg-dark.png" alt="Grinding Gear Games" /></a>
+                </div>
+                                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+        <div id="poe-popup-container"></div>
+    <div id="fb-root"></div>
+        <script type="text/javascript" src="https://web.poecdn.com/js/lib/require-2.3.2.js?v=fb734febccaaa258d2fe03b3dca5e0a6"></script>
+<script type="text/javascript">
+    //<!--
+                document.body.className = document.body.className.replace( /(?:^|\s)noJS(?!\S)/ , '');
+            window.momentLocale = 'en_US';
+            window.momentTimezone = 'America/Vancouver';
+            window.PoELocale = 'en_US';
+
+            BASEURL = '';
+
+            require.config({
+                baseUrl: "https://web.poecdn.com/js",
+                paths : {"main":"main.9cc6b69beda35b974699d8f407822500c79fe4dc","plugins":"plugins.5ad866f3390b88125de25cb66aeabb3f0497bb7a","skilltree":"skilltree.6ad45512a6cd5af9a382f455349d74ff34b76991","trade":"trade.3ddfb007f484a6db9081071119e92e810443ac4c"},
+                shim: {"main":{"deps":["config","plugins"]},"plugins":{"deps":["config"]}}
+            });
+            require(["main"], function(){require(["PoE/Forum"]);});    //-->
+</script>
+<!--[if lt IE 7]><script type="text/javascript" src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script><![endif]-->
+<script type="text/javascript">
+    //<!--
+    window.onerror = function(e, url, l) {};    //-->
+</script>    </body>
+</html>

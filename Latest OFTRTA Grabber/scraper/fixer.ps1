@@ -1,0 +1,1 @@
+(Get-Content ofsite.txt).replace('<a href="/', '<a href="http://www.thiessen.im/PoE/') | Set-Content ofsitelinks.txt

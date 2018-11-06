@@ -1,0 +1,1 @@
+Get-Content ofsited.txt | Where-Object {$_ -match '.filter'} | Set-Content of.txt

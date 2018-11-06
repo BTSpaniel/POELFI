@@ -1,0 +1,1 @@
+Get-Content ofsitelinksx.txt | Where-Object {$_ -match 'oftrta_v'} | Set-Content ofsited.txt

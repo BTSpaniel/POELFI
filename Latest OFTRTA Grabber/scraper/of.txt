@@ -1,0 +1,4 @@
+http://www.thiessen.im/PoE/oftrta_v3.4.3.filter
+http://www.thiessen.im/PoE/oftrta_v3.4.3.filter
+http://www.thiessen.im/PoE/oftrta_v3.4.3_map.filter
+http://www.thiessen.im/PoE/oftrta_v3.4.3_rich.filter
