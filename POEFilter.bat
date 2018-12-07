@@ -60,7 +60,7 @@ echo POE FILTER MENU v2018/08/31 12:29PM
 echo =====================
 echo Press The Number you want and press ENTER
 echo =====================
-echo 1 = One Filter to Rule Them All
+echo 1 = One Filter to Rule Them All (Latest OFTRTA Grabber\Pathofexile.bat for newest version if not updated in time) 
 echo 2 = NeverSink
 echo 3 = GG-LootFilter
 echo 9 = POE Filter Directory
