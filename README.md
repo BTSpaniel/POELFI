@@ -3,7 +3,7 @@ Path of Exile Lazy Filter Installer
 
 Choose from:
 
-  --One Filter to rule them all  
+  --One Filter to rule them all (Latest OFTRTA Grabber\Pathofexile.bat for newest version if not updated in time) 
   --Neversink  
   --Greengroove  
 
